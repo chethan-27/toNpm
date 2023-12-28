@@ -1,1 +1,4 @@
-export const fun = (a, b) => Number(a) + Number(b)
+const fun = (a, b) =>  {
+    return a + b;
+}
+module.exports = fun;
