@@ -1,0 +1,1 @@
+export const fun = (a, b) => Number(a) + Number(b)
